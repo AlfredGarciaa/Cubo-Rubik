@@ -1,18 +1,8 @@
-WWW
-WWW
-WWW
-GGG
-GGG
-GGG
-RRR
-RRR
-RRR
-BBB
-BBB
-BBB
-OOO
-OOO
-OOO
-YYY
-YYY
-YYY
+[    
+    [['W', 'W', 'W'], ['W', 'W', 'W'], ['W', 'W', 'W']], 
+    [['B', 'B', 'B'], ['B', 'B', 'B'], ['B', 'B', 'B']],    
+    [['O', 'O', 'O'], ['O', 'O', 'O'], ['O', 'O', 'O']],    
+    [['G', 'G', 'G'], ['G', 'G', 'G'], ['G', 'G', 'G']],    
+    [['R', 'R', 'R'], ['R', 'R', 'R'], ['R', 'R', 'R']],    
+    [['Y', 'Y', 'Y'], ['Y', 'Y', 'Y'], ['Y', 'Y', 'Y']]
+]
