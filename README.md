@@ -51,3 +51,6 @@ Descarga o clona el proyecto:
 ---
 
 ❤️‍🔥 Disfruta el juego del "Cubo de Rubik"!
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
